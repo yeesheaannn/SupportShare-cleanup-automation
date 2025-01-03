@@ -3,6 +3,7 @@ Within DHS environment, each site has a share folder called SupportShare which u
 
 ### SupportShare Path
 Below you can find a list of all share folder and its path in each site.
+
 ![image](https://github.com/user-attachments/assets/3fcca0d5-d291-468e-a41f-090fb11eb059)
 
 
