@@ -57,7 +57,7 @@ This script automates the cleanup of the SupportShare directory by identifying a
      - Open Task Scheduler.
      - Click "Create Task" in the upper-right part of the Task Scheduler window.
 
-       ![image](https://github.com/user-attachments/assets/0c9246be-cdce-46f6-b5ae-8580df28d8e4)
+       ![image](https://github.com/user-attachments/assets/2e01201a-5e9f-42cf-bdf4-0990d3c4923f)
 
      - In the General tab:
      - Enter the Name and Description for the script.
@@ -70,7 +70,7 @@ This script automates the cleanup of the SupportShare directory by identifying a
 
      - In the Triggers tab:
      - Click "New" at the bottom.
-       ![image](https://github.com/user-attachments/assets/bea19175-af8a-4df6-bcf8-f5e6b032d245)
+       ![image](https://github.com/user-attachments/assets/ccbb6ceb-c3ca-454c-aff1-eb8eae4f649a)
 
      - Select "Monthly" as the task schedule type.
      - Choose a start date and time for the script to begin running (In this case, we are choosing "10 am" for every site).
@@ -82,7 +82,7 @@ This script automates the cleanup of the SupportShare directory by identifying a
 
      - In the Actions tab:
      - Click "New" at the bottom.
-       ![image](https://github.com/user-attachments/assets/a4c34bf4-ecf3-4558-88c0-66b6ec702b04)
+       ![image](https://github.com/user-attachments/assets/30ff096f-db40-4a1d-a0c8-141eea2e07c9)
 
      - Select "Start a program".
      - Specify the program python.exe along with the script path "\\qhs\fssite\AdminShare\Scripts\Misc\Clean SupportShare\HSx\cleanSupportShare.py" in the Add arguments field.
