@@ -112,5 +112,5 @@ This script automates the cleanup of the SupportShare directory by identifying a
    - If no files or folders meet the threshold, the messages "No files can be deleted" or "No folders can be deleted" will be displayed.
 
 
-    ![image](https://github.com/user-attachments/assets/cd99be46-655a-47b1-9796-78d667f3edb2)
+     ![image](https://github.com/user-attachments/assets/cd99be46-655a-47b1-9796-78d667f3edb2)
    - If there are no files and folders meet the threshold, the messages "No files and folders can be deleted" will be displayed. 
