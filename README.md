@@ -89,6 +89,7 @@ This script automates the cleanup of the SupportShare directory by identifying a
      - ***Replace the "site" behind fs with the site name (e.g., fseueh) and "x" behind HS with the site number (e.g., HS2)
      - In the Start in field, enter the C:\ directory.
      - Click OK to save the Action settings.
+       
        ![image](https://github.com/user-attachments/assets/8107d11f-54d7-4bc2-92ac-5ce89b8351db)
 
      - Click OK to save the task.
