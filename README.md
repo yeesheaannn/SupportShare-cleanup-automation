@@ -97,7 +97,7 @@ This script automates the cleanup of the SupportShare directory by identifying a
        ![image](https://github.com/user-attachments/assets/76e57ae0-34a8-456f-a1e5-e5a42da3c54f)
 
      - The task to run the cleanSupportShare.py script automatically on the first Monday of each month has been successfully scheduled.
-       ![image](https://github.com/user-attachments/assets/de5a1f9a-b437-4649-aaa6-de2c3339047a)
+       ![image](https://github.com/user-attachments/assets/d60be7cd-464d-4ad1-8113-7cc7a2cc013e)
 
 
 3. Review Logs:
