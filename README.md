@@ -74,7 +74,7 @@ This script automates the cleanup of the SupportShare directory by identifying a
 
      - Select "Monthly" as the task schedule type.
      - Choose a start date and time for the script to begin running (In this case, we are choosing "10 am" for every site).
-     - Click the "Months" drop down list and select "<Select all months>" to run the script every month.
+     - Click the "Months" drop down list and select "Select all months" to run the script every month.
      - Under "On", select a specific occurrence (In this case, we are choosing "First Monday" for every site).
      - Click OK to save the Trigger settings.
        ![image](https://github.com/user-attachments/assets/6140ebda-4589-4822-98e3-c7e9f9c8c1de)
